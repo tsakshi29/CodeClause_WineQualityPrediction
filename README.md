@@ -1,6 +1,6 @@
 # CodeClause_WineQualityPrediction
-Here I created a Wine Quality Prediction Model using Machine learning 
-The following concepts used :
+Here I created a Wine Quality Prediction Model using Machine learning.
+and The following concepts were used :
 1. Data Manipulation 
 2. Data Visulization 
 3. Data Wrangling
